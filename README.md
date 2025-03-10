@@ -1,1 +1,1 @@
-# resume-template - Sample resume template
+# resume-template - Sample resume template for online use
